@@ -1,29 +1,41 @@
-name: "Beirut Hold'em"
-favicon: null
-layout_spectrum: 0.03954943502321839
-typography_spectrum: 0.5250175381079316
 title: "beirut hold'em"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1694308505393565
+  brandStrength: 1
+  lightness: 0.1511671163607389
   brandColors:
     - '#3a3730'
     - '#d6d7d2'
     - '#a4a5a0'
     - '#5c5952'
     - '#7e7f7a'
-  brandStrength: 0.5033180078025907
-  lightness: 0.15116711636073887
-  saturation: 0.16943085053935647
   rhythmicContrast: 0.823383318958804
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: "Beirut Hold'em"
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5250175381079316
+layout_spectrum: 0.03954943502321839
