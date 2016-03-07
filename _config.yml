@@ -2,6 +2,7 @@ name: "Beirut Hold'em"
 favicon: null
 layout_spectrum: 0.03954943502321839
 typography_spectrum: 0.5250175381079316
+title: "beirut hold'em"
 cta:
   domain: null
   bucket: null
