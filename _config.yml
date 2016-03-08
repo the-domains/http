@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: "BEIRUT HOLD'EM"
+title: "BEIRUT HOLD'EM "
 cta:
   domain: null
   bucket: null
