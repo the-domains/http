@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BEIRUT HOLD'EM ]]></title>
         <description><![CDATA[BEIRUT HOLD'EM ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://beirutholdem.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 08:40:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 09:07:04 GMT</lastBuildDate>
+        <atom:link href="http://beirutholdem.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>michelkammoun@gmail.com</p>]]></description>
+            <link>http://beirutholdem.com/5187009d-053c-42c0-9d0e-7536638cda71/index.html</link>
+            <guid isPermaLink="false">5187009d-053c-42c0-9d0e-7536638cda71</guid>
+            <pubDate>Tue, 08 Mar 2016 09:07:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>//////////////</p>]]></description>
-            <link>undefinedf618da57-7eb9-4fcc-8414-eb0d297f6c86/index.html</link>
+            <link>http://beirutholdem.com/f618da57-7eb9-4fcc-8414-eb0d297f6c86/index.html</link>
             <guid isPermaLink="false">f618da57-7eb9-4fcc-8414-eb0d297f6c86</guid>
             <pubDate>Tue, 08 Mar 2016 08:40:36 GMT</pubDate>
         </item>
